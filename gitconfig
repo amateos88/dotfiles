@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ainur.mateos@gmail.com
+	name = ainur mateos
